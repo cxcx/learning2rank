@@ -14,8 +14,8 @@ from chainer import serializers
 from tqdm import tqdm
 import scipy.stats as ss
 from sklearn.preprocessing import StandardScaler
-from learning2rank.utils import plot_result
-from learning2rank.utils import NNfuncs
+from utils import plot_result
+from utils import NNfuncs
 
 ######################################################################################
 # Define model
